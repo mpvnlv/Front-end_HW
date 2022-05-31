@@ -1,0 +1,99 @@
+h1{
+text-align: center;}
+.Lenin{
+    width:15%;
+    margin-left: 7%;
+    border: ridge purple 5px;
+}
+.Lenin:hover{
+    transform: scale(2);
+}
+.Egor{
+    width:15%;
+    border: ridge purple 5px;
+    margin-left: 12%;
+}
+.Egor:hover{
+    transform: scale(2);
+}
+body{
+    background-color: Plum;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("1614628189_86-p-tsvetochnii-fon-dlya-fotoshopa-110.jpg");
+    background-attachment: fixed;
+}
+.me{
+    width: 30%;
+    border: ridge purple 5px;
+
+}
+.photo{
+    display:inline;
+
+}
+.me:hover{
+    transform: scale(1.3);
+}
+
+h2{
+    border: double purple 5px;
+    text-align: center;
+    
+}
+.HB{
+    padding: 2%;
+}
+ol{
+    margin-top: 5%;
+    width: 20%;
+    background-color: rgb(184, 110, 201);
+    color:aliceblue;
+    border: ridge purple 5px;
+
+}
+A:visited{
+    color:rgb(95, 33, 102);
+}
+A{
+    color:rgb(95, 33, 102);
+}
+A:hover{
+    color:azure;
+}
+.telega{
+   
+    list-style-image: url("telegram_icon-icons.com_72055.png");
+  
+}
+.vk{
+   
+    list-style-image: url("iconfinder-social-media-applications-32vk-4102593_113806.png");
+  
+}
+li{
+    font-size: large;
+}
+.container {
+    position: absolute;
+    background-color: lavenderblush;
+    width: 17%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 10%;
+    padding: 2%;
+    border: ridge purple 5px;
+
+}
+#timer {
+    color: rgb(10, 2, 2);
+    font-size: 16px;
+    margin-left: 5%;
+   
+
+}
+.label {
+    font-size: 16px;
+ 
+}
